@@ -4,4 +4,4 @@ Software Personnel Management System
 This project is created for academic demonstration purpose only Software Configuration Management using GitHub.
 Student Name: Srinidhi Gundemoni
 Roll Number: 25B81A6657
-Class: CSM-A
+Class: CSM
